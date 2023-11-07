@@ -1,3 +1,5 @@
+### Yordanos Solomon
+
 ### Assignment 5: HMMs, Bayesian Networks, and Decisions
 
 #### Due: Wed Nov. 8, 11:59pm. 
